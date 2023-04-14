@@ -1,4 +1,4 @@
-# Multilevel Modeling at Philipps University Marburg SoSe 23 
+# Multilevel Modeling UMR SoSe 23 <img src="cover.png" width="230.4" height="360" align="right"/>
 
 The MA-Seminar: Multilevel-modelling of political identity concepts with standard data in RStudio/Posit (lme4 and others), is designed for students of political science who are interested in learning about multilevel analysis and advanced regression models. The primary goal of this seminar is to explore how political identity and affection are measured in large surveys such as the ESS and how these measures fit with theories of political identity.
 
