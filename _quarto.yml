@@ -8,12 +8,12 @@ book:
   author: 
     - Yannick Diehl
     - Isabelle Borucki
-  date: "14. April 2023"
-  favicon: logo.png
+  date: today
+  favicon: images/logo.png
   search: true
   repo-url: https://github.com/YannickDiehl/MultilevelModelingUMR23
   sharing: [twitter, facebook]
-  cover-image: cover.png
+  cover-image: images/cover.png
   chapters:
     - index.qmd
     - intro.qmd

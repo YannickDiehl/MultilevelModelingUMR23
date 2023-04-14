@@ -1,4 +1,4 @@
-# Multilevel Modeling UMR SoSe 23 <img src="cover.png" width="230.4" height="360" align="right"/> 
+# Multilevel Modeling UMR SoSe 23 <img src="images/cover.png" width="230.4" height="360" align="right"/> 
 
 This repository contains the source of [Multilevel Modeling on political identity and affection in Europe](https://yannickdiehl.github.io/MultilevelModelingUMR23/).
 The book is built using [Quarto](https://quarto.org/).
