@@ -16,8 +16,7 @@ book:
   cover-image: images/cover.png
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - module1.qmd
     - references.qmd
     
 comments:
