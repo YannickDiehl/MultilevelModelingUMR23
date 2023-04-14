@@ -17,6 +17,7 @@ book:
   chapters:
     - index.qmd
     - module1.qmd
+    - module2.qmd
     - references.qmd
     
 comments:

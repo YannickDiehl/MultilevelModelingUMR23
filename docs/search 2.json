@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "module1.html#the-european-social-survey-9",
+    "href": "module1.html#the-european-social-survey-9",
+    "title": "1  Introduction",
+    "section": "1.1 The European Social Survey 9",
+    "text": "1.1 The European Social Survey 9\nYou will be analysing data from the European Social Survey 9 from 2018, a european wide representative survey. The European Social Survey (ESS) is a multi-country survey conducted in over 38 countries with the aims of monitoring and interpreting changing public attitudes and values within Europe, advancing cross-national survey measurement methods, and developing European social indicators. The survey employs rigorous methodologies, including strict random probability sampling, a minimum target response rate of 70%, and rigorous translation protocols. In the ninth round, the survey covers 30 countries and is funded by ESS European Research Infrastructure Consortium (ESS ERIC) members, observers, and guests. The hour-long face-to-face interview includes questions on core topics and two modules developed for Round 9 covering Justice and Fairness in Europe, and the Timing of Life.\n\n\n\n\n\n\nNote\n\n\n\nWe explicitly use the ESS9 for this course, since all countries are recorded and analyzable in this data set, and there is no restricted data collection due to COVID-19.\n\n\nWe use data from seven cohorts of young people collected in the first sweep of the study, carried out at the end of the final year of compulsory schooling (aged 16-17) when most sample members had taken Standard grades.2 These are subject-based examinations, typically taken in up to eight subjects. Each subject is graded on a scale from 1 (highest) to 7 (lowest). The dependent variable is a total attainment score calculated by assigning 7 points for a ‘1’, 6 for a ‘2’ and so on."
+  },
+  {
+    "objectID": "module2.html",
+    "href": "module2.html",
+    "title": "2  Multiple Regression",
+    "section": "",
+    "text": "The aim of these exercises is to gain practical experience of the application and interpretation of multiple regression."
+  }
+]

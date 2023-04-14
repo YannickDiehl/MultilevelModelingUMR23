@@ -1,0 +1,3 @@
+# Multiple Regression
+
+The aim of these exercises is to gain practical experience of the application and interpretation of multiple regression.
