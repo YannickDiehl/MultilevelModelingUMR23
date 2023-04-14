@@ -5,7 +5,9 @@ project:
 book:
   title: "Multilevel Modeling"
   subtitle: "Political identity and affection in Europe"
-  author: "Yannick Diehl & Isabelle Borucki"
+  author: 
+    - Yannick Diehl
+    - Isabelle Borucki
   date: "14. April 2023"
   favicon: logo.png
   search: true

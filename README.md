@@ -1,6 +1,6 @@
 # Multilevel Modeling UMR SoSe 23 <img src="cover.png" width="230.4" height="360" align="right"/> 
 
-This repository contains the source of [Multilevel Modeling on political identity and affection in Europe](https://yannickdiehl.github.io/MultilevelModelingUMRSoSe23/).
+This repository contains the source of [Multilevel Modeling on political identity and affection in Europe](https://yannickdiehl.github.io/MultilevelModelingUMR23/).
 The book is built using [Quarto](https://quarto.org/).
 
 The MA-Seminar: Multilevel-modelling of political identity concepts with standard data in RStudio/Posit (lme4 and others), is designed for students of political science who are interested in learning about multilevel analysis and advanced regression models. The primary goal of this seminar is to explore how political identity and affection are measured in large surveys such as the ESS and how these measures fit with theories of political identity.
