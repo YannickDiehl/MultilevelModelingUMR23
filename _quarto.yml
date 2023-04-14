@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 book:
-  title: "MultilevelModelingUMRSoSe23"
+  title: "MLM "
   author: "Yannick Diehl"
-  date: "`r format(Sys.time(), '%d %B, %Y')`"
+  date: "14. April 2023"
   search: true
   repo-url: https://github.com/YannickDiehl/MultilevelModelingUMRSoSe23
   sharing: [twitter, facebook]
