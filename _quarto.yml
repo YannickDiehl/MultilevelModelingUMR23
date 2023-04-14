@@ -3,8 +3,8 @@ project:
 
 book:
   title: "MultilevelModelingUMRSoSe23"
-  author: "Jane Doe"
-  date: "4/14/2023"
+  author: "Yannick Diehl"
+  date: "`r format(Sys.time(), '%d %B, %Y')`"
   chapters:
     - index.qmd
     - intro.qmd
